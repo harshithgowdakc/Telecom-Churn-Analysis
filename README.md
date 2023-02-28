@@ -12,7 +12,8 @@ EDA helps us to:
 
   3. Identify any interesting observation
 
-Develop an initial idea of possible associations among the predictors and the target variable.
+  4. Develop an initial idea of possible associations among the predictors and the target variable.
+  
 The telecom market in the US is saturated and customer growth rates are low. They key focus of market players therefore is on retention and churn control. This project explores the churn dataset to identify the key drivers of churn and grab key insights from the dataset.
 
 The insights we have gained into the churn data set through the use of exploratory data analysis:
