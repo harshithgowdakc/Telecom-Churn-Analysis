@@ -27,6 +27,6 @@ The insights we have gained into the churn data set through the use of explorato
 
   5. Customers with four or more customer service calls churn more than four times as often as do the other customers.
 
-  6.Customers with high day minutes and evening minutes tend to churn at a higher rate than do the other customers.
+  6. Customers with high day minutes and evening minutes tend to churn at a higher rate than do the other customers.
 
   7. There is no obvious association of churn with the variables day calls, evening calls, night calls, international calls, night minutes, international minutes,          account length, or voice mail messages
